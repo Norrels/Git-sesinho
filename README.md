@@ -1,2 +1,1 @@
-# Git-sesinho
-clone it
+Parabéns você clonou :D
